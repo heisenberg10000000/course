@@ -1,0 +1,6 @@
+s1 = str(input())
+s2 = str(input())
+s3 = str(input())
+print(s1, end = '---')
+print(s2, end = '---')
+print(s3)
