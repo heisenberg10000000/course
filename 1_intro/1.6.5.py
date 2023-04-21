@@ -1,0 +1,6 @@
+a, b, c = map(int, input().split())
+a1 = (3 * a)
+a2 = (5 * b)
+a3 = (12 * c)
+a4 = (a1 + a2 + a3)
+print(a4)
