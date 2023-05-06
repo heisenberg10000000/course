@@ -1,0 +1,6 @@
+n = str(input())
+r = str(input())
+t = str(input())
+print(t)
+print(r)
+print(n)
